@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/anshuman jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman jha" height="30" width="40" /></a>
 <a href="https://fb.com/anshuman jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anshuman jha" height="30" width="40" /></a>
 <a href="https://instagram.com/dark.lord.0350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dark.lord.0350" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@anshumanjha0350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anshumanjha0350" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anshumanjha0350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anshumanjha0350" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anshumanjha0350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshumanjha0350" height="30" width="40" /></a>
 </p>
 
