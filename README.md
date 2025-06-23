@@ -15,7 +15,6 @@
 - 🛠️ Building full-stack apps with modern tech  
 - 💬 Ask me about: **C++, React, Node.js, Machine Learning**  
 - 🌱 Currently learning: **Docker, TypeScript, and System Design**  
-- 🎯 Focused on Competitive Programming and Scalable Backend  
 - ✨ Fun Fact: I write **Shayari**, love **Football**, and memes!
 
 ---
@@ -48,9 +47,10 @@
 - Full-stack app with doctor/patient/admin roles
 - Appointment management, review system, and RBAC
 
-#### 🔹 [Real-Time Traffic Predictor](https://github.com/DaRkLord0350)
-- Kafka + TensorFlow + GeoPandas based congestion prediction  
-- Real-time dashboard using Folium maps
+#### 🔹 [Pacman Game (Python)](https://github.com/DaRkLord0350/Pacman---Game-main)
+- Console-based Pacman clone built using Python  
+- Features ghosts, levels, score tracking, and movement logic  
+- A great exercise in OOP, game loops, and real-time input handling
 
 ---
 
@@ -58,16 +58,8 @@
 <p>
   <a href="https://linkedin.com/in/anshuman-jha"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
   <a href="https://twitter.com/darklord0350"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge"/></a>
-  <a href="mailto:anshuman.jha2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/></a>
-  <a href="https://leetcode.com/anshumanjha0350"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:anshumanjha0350@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/></a>
+  <a href="https://leetcode.com/anshuman.jha2025"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.hackerrank.com/anshumanjha0350"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
----
-
-### 💬 Quote
-> "Simplicity is the soul of efficiency." – Austin Freeman
-
----
-
-Let me know if you want this as a downloadable `README.md`, or want to add sections like blogs, guestbook, or certifications.
