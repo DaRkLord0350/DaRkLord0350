@@ -1,35 +1,73 @@
 <h1 align="center">Hi 👋, I'm Anshuman Jha</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darklord0350&label=Profile%20views&color=0e75b6&style=flat" alt="darklord0350" /> </p>
+<h3 align="center">🚀 Passionate Software Developer | Problem Solver | Tech Enthusiast from India</h3>
 
-<p align="left"> <a href="https://twitter.com/darklord0350" target="blank"><img src="https://img.shields.io/twitter/follow/darklord0350?logo=twitter&style=for-the-badge" alt="darklord0350" /></a> </p>
-
-- 🌱 I’m currently learning **C++ , Frontend Develpoer , Sql**
-
-- 👨‍💻 All of my projects are available at [https://github.com/DaRkLord0350](https://github.com/DaRkLord0350)
-
-- 💬 Ask me about **C++ , Competitive Programming**
-
-- 📫 How to reach me **anshumanjha0350@gmail.com**
-
-- ⚡ Fun fact **Funny, Write Poetries,Shyari, Football**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/darklord0350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darklord0350" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anshuman jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman jha" height="30" width="40" /></a>
-<a href="https://fb.com/anshuman jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anshuman jha" height="30" width="40" /></a>
-<a href="https://instagram.com/dark.lord.0350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dark.lord.0350" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anshumanjha0350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anshumanjha0350" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anshumanjha0350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshumanjha0350" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DaRkLord0350&label=Profile%20views&color=0e75b6&style=flat" alt="DaRkLord0350" />
+  <img src="https://img.shields.io/github/followers/DaRkLord0350?label=Follow&style=social" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darklord0350&show_icons=true&locale=en&layout=compact" alt="darklord0350" /></p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darklord0350&show_icons=true&locale=en" alt="darklord0350" /></p>
+### 💡 About Me:
+- 🎓 B.Tech in Computer Science  
+- 🛠️ Building full-stack apps with modern tech  
+- 💬 Ask me about: **C++, React, Node.js, Machine Learning**  
+- 🌱 Currently learning: **Docker, TypeScript, and System Design**  
+- 🎯 Focused on Competitive Programming and Scalable Backend  
+- ✨ Fun Fact: I write **Shayari**, love **Football**, and memes!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darklord0350&" alt="darklord0350" /></p>
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaRkLord0350&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaRkLord0350&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+### 🛠️ Skills & Tools
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📂 Featured Projects
+#### 🔹 [Healthcare Management System](https://github.com/DaRkLord0350/healthcare)
+- Full-stack app with doctor/patient/admin roles
+- Appointment management, review system, and RBAC
+
+#### 🔹 [Real-Time Traffic Predictor](https://github.com/DaRkLord0350)
+- Kafka + TensorFlow + GeoPandas based congestion prediction  
+- Real-time dashboard using Folium maps
+
+---
+
+### 🔗 Connect With Me
+<p>
+  <a href="https://linkedin.com/in/anshuman-jha"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
+  <a href="https://twitter.com/darklord0350"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge"/></a>
+  <a href="mailto:anshuman.jha2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/></a>
+  <a href="https://leetcode.com/anshumanjha0350"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/anshumanjha0350"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+</p>
+
+---
+
+### 💬 Quote
+> "Simplicity is the soul of efficiency." – Austin Freeman
+
+---
+
+Let me know if you want this as a downloadable `README.md`, or want to add sections like blogs, guestbook, or certifications.
