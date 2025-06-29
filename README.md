@@ -58,7 +58,7 @@
 <p>
   <a href="https://linkedin.com/in/anshuman-jha"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
   <a href="https://twitter.com/darklord0350"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge"/></a>
-  <a href="mailto:anshumanjha0350@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/></a>
+  <a href="mailto:anshuman.jha2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/></a>
   <a href="https://leetcode.com/anshuman.jha2025"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.hackerrank.com/anshumanjha0350"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
